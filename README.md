@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PowerBI and LLMs**
 
-- 📝 I regularly write articles on [Coming soon..](Coming soon..)
+- 📝 I regularly write articles on [Not really 🙂..](Coming soon..)
 
 - 💬 Ask me about **Machine Learning, Tableau, Differential Privacy and Data Analysis**
 
