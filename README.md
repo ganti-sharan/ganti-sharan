@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sharan-ganti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharan-ganti" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/sharan.ganti/vizzes" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png" alt="ganti_sharan" height="40" width="40" /></a>
 <a href="https://instagram.com/ganti_sharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganti_sharan" height="30" width="40" /></a>
 </p>
 
