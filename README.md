@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganti-sharan&label=Profile%20views&color=0e75b6&style=flat" alt="ganti-sharan" /> </p>
 
-- 🔭 I’m currently working on [Crypto De-anonymization Project](--sorry cant provide it. Its a group research--)
+- 🔭 I’m currently working on  **Crypto De-anonymization Project** (--sorry cant provide it. Its a group research--)
 
 - 🌱 I’m currently learning **PowerBI and LLMs**
 
