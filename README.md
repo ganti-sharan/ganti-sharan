@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharan Ganti</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | Machine Learning Enthusiast | AI Innovator</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning and Data Enthusiast | AI Innovator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganti-sharan&label=Profile%20views&color=0e75b6&style=flat" alt="ganti-sharan" /> </p>
 
