@@ -35,6 +35,12 @@
   <a href="https://www.mysql.com/" target="_blank">
     <b>SQL</b>
   </a> |  
+  <a href="" target="_blank">
+    <b>Git</b>
+  </a> |  
+  <a href="" target="_blank">
+    <b>Jupyter Notebook</b>
+  </a> | 
   <a href="https://www.java.com/" target="_blank">
     <b>Java</b>
   </a> |  
@@ -49,7 +55,7 @@
   </a> |  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <b>CSS</b>
-  </a>  
+  </a>
 </p>
 
 ---
@@ -64,7 +70,10 @@
   </a> |  
   <a href="https://www.nltk.org/" target="_blank">
     <b>NLTK</b>
-  </a> |   
+  </a> | 
+  <a href="" target="_blank">
+    <b>Scikit-learn</b>
+  </a> |
   <a href="https://pytorch.org/" target="_blank">
     <b>PyTorch</b>
   </a> |  
@@ -74,6 +83,27 @@
   <a href="https://www.scipy.org/" target="_blank">
     <b>SciPy</b>
   </a>  
+</p>
+
+---
+#### 📊 Data Science
+<p align="left"> 
+    <a href="" target="_blank">
+    <b>Supervised & Unsupervised Learning Algorithms</b>
+  </a> | 
+  <a href="" target="_blank">
+    <b>Deep Learning</b>
+  </a> |
+  <a href="" target="_blank">
+    <b>Data Science Pipeline</b>
+  </a> |  
+  <a href="" target="_blank">
+    <b>Time Series Analysis</b>
+  </a> |  
+  <a href="" target="_blank">
+    <b>Statistical Analytics</b>
+  </a>  
+ 
 </p>
 
 ---
